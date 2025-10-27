@@ -5,6 +5,8 @@ This project demonstrates the design and implementation of an automated Security
 
 ---
 
+![image](workflow.png)
+
 ## 🏗️ System Architecture
 
 The automated SOC workflow follows this process:

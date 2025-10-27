@@ -1,6 +1,4 @@
 
-
-```markdown
 # Automated SOC Workflow for Incident Response
 
 This project demonstrates the design and implementation of an automated Security Operations Center (SOC) workflow for incident response using open-source technologies. The solution integrates **Wazuh** (SIEM/XDR), **Shuffle** (SOAR), and **TheHive** (case management) to enhance threat detection, automate response actions, and streamline case management in a cloud-based environment.

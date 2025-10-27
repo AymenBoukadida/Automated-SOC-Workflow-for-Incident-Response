@@ -63,18 +63,3 @@ Two attack scenarios were simulated to validate the workflow:
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-- DigitalOcean account (or similar cloud provider)
-- Ubuntu 22.04 VMs
-- Wazuh, TheHive, Shuffle installed and configured
-
-### Installation Steps
-1. Deploy Wazuh and TheHive on cloud droplets.
-2. Install Wazuh agents on endpoints (Windows & Linux).
-3. Configure custom detection rules in Wazuh.
-4. Set up Shuffle workflows for enrichment and case creation.
-5. Integrate VirusTotal API for IOC enrichment.
-
----
